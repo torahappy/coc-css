@@ -964,14 +964,14 @@
   "author": "chemzqm@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^25.0.2",
+    "@types/node": "^26.6.6",
     "coc.nvim": "0.0.83-next.9",
-    "esbuild": "^0.27.1",
-    "typescript": "^5.9.3",
-    "vscode-css-languageservice": "^6.3.9",
-    "vscode-languageserver": "^9.0.1",
-    "vscode-languageserver-protocol": "^3.17.5",
-    "vscode-uri": "^3.1.0"
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2",
+    "vscode-css-languageservice": "^6.3.10",
+    "vscode-languageserver": "^11.0.0",
+    "vscode-languageserver-protocol": "^3.18.5",
+    "vscode-uri": "^3.2.0"
   },
   "dependencies": {}
 }
